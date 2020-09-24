@@ -1,0 +1,59 @@
+body{
+  margin:0;
+  text-align: center;
+  background-color: #8db1ab;
+  padding-top:80px;
+}
+.h1{
+  display:inline;
+  font-family: 'Norican', cursive;
+}
+.h2{
+  display: inline;
+  font-family: 'Norican', cursive;
+}
+.pic{
+width:350px;
+border-radius: 50%;
+border: 15px solid #4d4c7d;
+margin: auto;
+position: absolute;
+right:440px;
+}
+p{
+  font-family: 'Bubblegum Sans', cursive;
+}
+.bal1{
+  position: absolute;
+  top:400px;
+  width:15%;
+  right:250px;
+}
+.bal2{
+  position: absolute;
+  top:400px;
+  width:15%;
+  left:250px;
+}
+.flag1{
+  width:10%;
+  position:absolute;
+  left:300px;
+  top:60px;
+}
+.flag2{
+  width:10%;
+  position:absolute;
+  right:300px;
+  top:60px;
+}
+.text{
+  padding:20px;
+}
+.cake{
+  width:10%;
+  position:absolute;
+  top:620px;
+  left:570px;
+  padding-bottom: 40px;
+}
